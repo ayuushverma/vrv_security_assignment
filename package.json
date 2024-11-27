@@ -1,0 +1,22 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "vrv security assignment",
+  "main": "index.js",
+  "type": "module",
+ "scripts": {
+  "start": "node build/index.js",
+  "build": "babel index.js -d build"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayuushverma/vrv_security_assignment.git"
+  },
+  "author": "Ayush verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayuushverma/vrv_security_assignment/issues"
+  },
+  "homepage": "https://github.com/ayuushverma/vrv_security_assignment#readme"
+}
